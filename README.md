@@ -117,6 +117,5 @@ Tài liệu này cung cấp cái nhìn tổng quan về cấu trúc cơ sở d�
 ---
 
 ## 💾 Dữ Liệu Mẫu
-
-Bộ dữ liệu mẫu đã được chuẩn bị sẵn, có thể tải về để sử dụng trong thử nghiệm và phát triển.
+https://drive.google.com/drive/folders/17GWVrAOwuFlYfcnq4fJYhj2Jrv8ScY1D
 
